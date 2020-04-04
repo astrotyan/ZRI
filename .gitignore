@@ -181,3 +181,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# html
+
+.html
+
+# json
+
+.json
